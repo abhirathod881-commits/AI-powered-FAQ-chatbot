@@ -1,0 +1,115 @@
+PVPIT - PADMABHOOSHAN VASANTDADA PATIL INSTITUTE OF TECHNOLOGY
+FREQUENTLY ASKED QUESTIONS (FAQ)
+
+=== ADMISSIONS ===
+
+Q: What is the admission process for engineering at PVPIT?
+A: Admissions to PVPIT are done through the Maharashtra State CET (MHT-CET) or JEE Main scores. Students must register on the official DTE Maharashtra portal (dtemaharashtra.gov.in), fill in their preferences during CAP rounds, and attend document verification at the allotted center. Admission is based on merit and category-wise cutoffs.
+
+Q: What documents are required for admission?
+A: Required documents include: SSC and HSC mark sheets and passing certificates, MHT-CET or JEE scorecard, Transfer Certificate (TC), Migration Certificate (if from outside Maharashtra), Domicile Certificate, Caste Certificate (if applicable), Income Certificate (for scholarship/fee waiver), Aadhaar Card, passport-size photographs, and a medical fitness certificate.
+
+Q: What are the available engineering branches at PVPIT?
+A: PVPIT offers the following B.E. branches: Computer Engineering, Information Technology, Electronics & Telecommunication Engineering, Mechanical Engineering, Civil Engineering, and Data Science. Postgraduate (M.E.) programs are also available in select departments.
+
+Q: Is there a lateral entry option for diploma holders?
+A: Yes. Diploma holders can apply for direct second-year (lateral entry) admission through the DTE Maharashtra DSE-CAP (Direct Second Year Engineering) process, based on their diploma percentage.
+
+Q: What is the fee structure for B.E. programs?
+A: The fee structure is approved by the Shikshan Shulka Samiti (Fee Regulation Committee), Maharashtra. Approximate annual fees range from ₹80,000 to ₹1,10,000 depending on the branch and category. SC/ST/OBC students may be eligible for fee waivers or scholarships under government schemes.
+
+=== ACADEMICS ===
+
+Q: Which university is PVPIT affiliated to?
+A: PVPIT is affiliated to Savitribai Phule Pune University (SPPU), Pune.
+
+Q: What is the academic calendar structure?
+A: The academic year is divided into two semesters — Odd Semester (July–November) and Even Semester (December–May). Each semester includes internal assessments, practicals, and end-semester examinations conducted by SPPU.
+
+Q: How are internal marks calculated?
+A: Internal assessment (ISE) marks are awarded based on: two internal tests (Unit Tests), practical/lab performance, assignments, attendance, and mini-project or term work. The weightage may vary by subject as per SPPU guidelines.
+
+Q: What is the grading system followed?
+A: PVPIT follows the SPPU credit-based grading system. Grades range from O (Outstanding) to F (Fail). The CGPA is calculated based on semester grade point averages (SGPA) across all semesters.
+
+Q: What is the minimum attendance requirement?
+A: Students must maintain a minimum of 75% attendance in each subject to be eligible for the end-semester examination. Students with attendance below 75% may be detained and not allowed to appear for the exam.
+
+Q: How can I access study material and lecture notes?
+A: Faculty upload notes, slides, and reference materials on the college ERP portal and Google Classroom. Students can also access SPPU's digital library and NPTEL courses for supplementary learning.
+
+Q: What programming languages and tools are taught in Data Science?
+A: The Data Science curriculum at PVPIT covers Python, R, SQL, Machine Learning (Scikit-learn, TensorFlow, Keras), Data Visualization (Matplotlib, Seaborn, Power BI), Big Data tools (Hadoop, Spark), NLP, and Cloud platforms as part of the curriculum.
+
+=== EXAMINATIONS ===
+
+Q: How do I apply for SPPU examinations?
+A: Exam forms are filled online through the SPPU exam portal. The college notifies students of the exam form schedule. Students must pay the exam fee online and submit the form within the deadline. Late submissions may incur a penalty.
+
+Q: What if I fail in one or more subjects?
+A: Students who fail (grade F) in a subject can appear for the Backlog (KT) examination in subsequent semesters. SPPU allows students to carry backlogs and still progress to the next semester, subject to college policy.
+
+Q: How can I apply for re-evaluation or photocopy of answer sheet?
+A: After results are declared on the SPPU portal, students can apply for photocopy of their answer sheet and re-assessment (re-evaluation) online through the SPPU student portal within the specified window, by paying the applicable fee.
+
+=== FACILITIES ===
+
+Q: What hostel facilities are available?
+A: PVPIT provides separate hostel facilities for male and female students near the campus in the Bavdhan area. Hostel allotment is based on availability and distance from hometown. Students must apply separately for hostel accommodation at the start of the academic year.
+
+Q: What sports and extracurricular facilities are available?
+A: The campus has facilities for cricket, football, volleyball, badminton, table tennis, and chess. There is a fully equipped gymnasium. Students can participate in inter-college events, Zonal, and University-level sports competitions.
+
+Q: Is there a canteen on campus?
+A: Yes, the college canteen operates on all working days and provides affordable meals, snacks, and beverages for students and staff.
+
+Q: Does the college have Wi-Fi on campus?
+A: Yes, PVPIT has high-speed Wi-Fi across campus including classrooms, labs, the library, and common areas. Students can connect using their college credentials.
+
+Q: What library resources are available?
+A: The central library has a large collection of textbooks, reference books, journals, and project reports. It also provides access to e-resources like DELNET, NPTEL, and IEEE Xplore. The library is open on all working days.
+
+=== PLACEMENTS ===
+
+Q: Does PVPIT have a Training & Placement Cell?
+A: Yes, the Training & Placement (T&P) Cell at PVPIT actively connects students with industry partners. It organizes on-campus and off-campus recruitment drives, pre-placement training, mock interviews, and aptitude workshops.
+
+Q: Which companies have recruited from PVPIT?
+A: Past recruiters include TCS, Infosys, Wipro, Cognizant, Capgemini, Tech Mahindra, Persistent Systems, Accenture, L&T Infotech, Mphasis, and several Pune-based startups.
+
+Q: What is the average placement package?
+A: The average CTC offered in campus placements ranges from ₹3.5 LPA to ₹6 LPA. Some students receive higher offers from product-based or niche companies through off-campus routes.
+
+Q: How can I register for placement activities?
+A: Students must register on the T&P portal/ERP. Eligibility criteria (CGPA cutoff, backlog status) vary by company. Students are notified about drives via college email and notice boards.
+
+Q: Does the college provide internship support?
+A: Yes, the T&P Cell assists in internship drives. Students in 3rd year (T.E.) are encouraged to complete a 4-week to 6-month internship. Some departments have tie-ups with industry partners for structured internships.
+
+=== STUDENT LIFE ===
+
+Q: What technical clubs and committees are active at PVPIT?
+A: Active student bodies include: ISTE Student Chapter, IEEE Student Chapter, CSI Chapter, E-Cell (Entrepreneurship Cell), NSS (National Service Scheme), Cultural Committee, Sports Committee, and department-specific technical clubs like the DS Club and Robotics Club.
+
+Q: How can I participate in hackathons and competitions?
+A: The college T&P Cell and department clubs regularly circulate information about national and state-level hackathons (Smart India Hackathon, HackWithInfy, etc.). Students can also form teams and register directly on platforms like Devfolio and HackerEarth.
+
+Q: Is there a scholarship for meritorious students?
+A: Yes. Government scholarships like EBC (Economically Backward Class), TFWS (Tuition Fee Waiver Scheme), and various state/central government scholarships are available. Students must apply through the MahaDBT portal. The college also recognizes toppers each semester.
+
+Q: How do I apply for a No Objection Certificate (NOC) or Bonafide Certificate?
+A: Applications for NOC, Bonafide Certificate, or other official documents can be submitted at the administrative office or through the college ERP portal. Processing typically takes 2–3 working days.
+
+Q: What is the college address and contact information?
+A: PVPIT Address: S. No. 314, Near Chatushringi Temple, Bavdhan (Khurd), Pune – 411021, Maharashtra.
+Phone: (020) 2572 7999
+Email: info@pvpitpune.ac.in
+Website: www.pvpitpune.ac.in
+
+=== ANTI-RAGGING & GRIEVANCE ===
+
+Q: What is the college's anti-ragging policy?
+A: PVPIT has a strict zero-tolerance anti-ragging policy in compliance with UGC regulations. An Anti-Ragging Committee and Squad are active on campus. Students can report incidents to the committee, AICTE helpline (1800-180-1522), or online at antiragging.in.
+
+Q: How can I raise a grievance?
+A: Students can submit grievances through the Grievance Redressal Cell by submitting a written complaint at the administrative office or via the official college email. The committee is mandated to respond within 15 days.
